@@ -1,0 +1,10 @@
+/__py_chache__/*
+*.pt
+*.pkl
+/older/
+/test_data/
+/test_dataloader/
+*.pyc
+*.jpeg
+*.jpg
+*.backup
